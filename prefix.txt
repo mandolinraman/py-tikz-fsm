@@ -1,0 +1,8 @@
+\documentclass[usenames,dvipsnames]{article}
+
+\usepackage{pgf}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+\usepackage[latin1]{inputenc}
+\usepackage{verbatim}
+\usepackage{xcolor}

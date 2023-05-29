@@ -1,0 +1,2 @@
+\newcommand{\lightgrey}{black!10}
+\newcommand{\darkgrey}{black!40}
